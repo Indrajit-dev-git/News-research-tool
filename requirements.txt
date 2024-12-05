@@ -1,0 +1,11 @@
+langchain
+langchain_community
+python-dotenv
+langchain-google-genai
+streamlit
+unstructured
+faiss-cpu
+libmagic
+python-magic
+python-magic-bin
+sentence-transformers
